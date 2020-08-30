@@ -1,0 +1,8 @@
+.myStyle {
+  color: darkblue;
+  border-style: solid;
+  border-width: 1px 1px 1px 5.5px;
+  border-color: black black black blue;
+  background-color: lightgrey;
+	white-space: pre-line;
+}
